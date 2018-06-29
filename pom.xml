@@ -3,24 +3,24 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>fpjunqueira.springboot.sampletests</groupId>
-	<artifactId>spring-boot-sample-tests</artifactId>
+	<groupId>fpjunqueira.springboot.playground</groupId>
+	<artifactId>spring-boot-playground</artifactId>
 	<version>1</version>
 	<packaging>pom</packaging>
 
-	<name>spring-boot-sample-tests</name>
-	<description>Spring Boot Sample Tests</description>
+	<name>spring-boot-playground</name>
+	<description>Spring Boot Playground</description>
 
     <modules>
-		<module>spring-boot-sample-tests-datarest</module>
-		<module>spring-boot-sample-tests-hateoas</module>
-		<module>spring-boot-sample-tests-jpa</module>
-		<module>spring-boot-sample-tests-jsp</module>
-		<module>spring-boot-sample-tests-rest</module>
-		<module>spring-boot-sample-tests-thymeleaf</module>
-		<module>spring-boot-sample-tests-war</module>
-		<module>spring-boot-sample-tests-web</module>
-		<module>spring-boot-sample-tests-jwt</module>
+		<module>spring-boot-playground-datarest</module>
+		<module>spring-boot-playground-hateoas</module>
+		<module>spring-boot-playground-jpa</module>
+		<module>spring-boot-playground-jsp</module>
+		<module>spring-boot-playground-rest</module>
+		<module>spring-boot-playground-thymeleaf</module>
+		<module>spring-boot-playground-war</module>
+		<module>spring-boot-playground-web</module>
+		<module>spring-boot-playground-jwt</module>
     </modules>	
 
 </project>
